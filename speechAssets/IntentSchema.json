@@ -1,0 +1,16 @@
+{
+	"intents": [
+		{
+			"intent": "MarkovIntent",
+			"slots": [
+				{
+					"name": "order",
+					"type": "NUMBER"
+				}
+			]
+		},
+		{
+			"intent": "HelpIntent"
+		}
+	]
+}
